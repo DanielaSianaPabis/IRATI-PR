@@ -9,6 +9,16 @@ div.h1{
     background-color: rgb(17, 131, 22);
 }
 
+h2#H2Index{
+    text-align: center;
+    color:green;
+}
+div.inicio{
+    margin:120px;
+    border:4px solid white;
+    background-color: white;
+}
+
 div.historia{
     font-family: cursive;
     background-color: lightgreen;
@@ -79,5 +89,21 @@ div.ClasseTurismo{
     background-color: rgb(156, 201, 156);
     border:2px solid rgb(52, 65, 52);
     margin:55px;
+}
+
+div.video{
+    text-align: center;
+}
+span{
+    background-color:greenyellow;
+}
+i:hover{
+    background-color: yellowgreen;
+}
+i:active{
+    color:red;
+}
+i:visited{
+    color:green;
 }
 
