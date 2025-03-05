@@ -1,2 +1,2 @@
 # IRATI-PR
- Cidade de Irati-PR
+ Recriação do site "Na trilha do aprendizado".
